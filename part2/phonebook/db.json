@@ -24,6 +24,11 @@
       "name": "tesa",
       "number": "1231233",
       "id": "6ghJBVBSDno"
+    },
+    {
+      "name": "sadasd",
+      "number": "12213123",
+      "id": "hgaskW9zY74"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
